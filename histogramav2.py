@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-### histograma v1
+### histograma v2
 
 dados = [51, 53, 56, 58, 59, 59, 60, 64, 65, 68, 69, 73, 74, 75, 76, 77, 77, 78, 79, 79]
 
