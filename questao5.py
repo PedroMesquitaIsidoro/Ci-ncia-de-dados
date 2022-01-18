@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+#questao 5 lista 02
+#Usando técnicas de Visualização de Dados, construa um gráfico a partir dos seguintes dados e mostre uma decisão que se pode tomar a partir dele
 
 recebidos = [160, 184, 241, 149, 180, 161, 132, 202, 160, 139, 149, 177]
 processados = [160, 184, 237, 148, 181, 150, 123, 156, 126, 104, 124, 140]
